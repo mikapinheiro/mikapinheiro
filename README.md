@@ -8,7 +8,7 @@ Minha base é focada no desenvolvimento Back-end (com um carinho especial por Py
 
 ---
 
-### 🧰 Minha bagagem de habilidades
+### 🧰 Minha bagagem de habilidades:
 
 **Principais Linguagens & Frameworks:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
@@ -16,7 +16,7 @@ Minha base é focada no desenvolvimento Back-end (com um carinho especial por Py
 
 ---
 
-### 🚀 O que ando construindo
+### 🚀 O que ando construido:
 
 * ⚙️ **[SCAF (Sistema de Análise e Controle de Falhas)](#):** Sistema de análise e controle de falhas operacionais utilizado na Petrobras.
 * 🏗️ **[Concretize](#):** Aplicativo para cálculo e projeto de materiais para instalação de Drywall.
