@@ -60,10 +60,3 @@ Python, Java (Spring Boot), React, Flutter, Cloud Computing.
 # status
 Ready to code! 🚀
 ```
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikapinheiro&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Status da Mikaelle"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikapinheiro&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Linguagens"/>
-</div>
