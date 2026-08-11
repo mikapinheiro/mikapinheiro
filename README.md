@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=250&section=header&text=MIKAELLE%20PINHEIRO&fontSize=50&fontAlignY=35&desc=SYSTEM%20BOOTING...&descAlignY=55&descAlign=50" alt="Banner Mikaelle"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00E5FF&height=250&section=header&text=MIKAELLE%20PINHEIRO&fontSize=50&fontAlignY=35&desc=SYSTEM%20BOOTING...&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Banner Mikaelle"/>
 </div>
 
 <br>
