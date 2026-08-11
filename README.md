@@ -1,24 +1,69 @@
-# Olá! Que bom ver você por aqui. Sou a Mikaelle! 👩‍💻✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=250&section=header&text=MIKAELLE%20PINHEIRO&fontSize=50&fontAlignY=35&desc=SYSTEM%20BOOTING...&descAlignY=55&descAlign=50" alt="Banner Mikaelle"/>
+</div>
 
-**Desenvolvedora Full Stack | Estudante de Ciência da Computação**
+<br>
 
-Movida pela curiosidade e por transformar problemas complexos em soluções eficientes. Atualmente, aplico meus conhecimentos no desenvolvimento de software em vários projetos para aprofundamento de estudo e portfólio! Além de continuar minha jornada acadêmica na UNIP como graduanda.
+## 🤖 MIKAELLE AI CORE
 
-Minha base é focada no desenvolvimento Back-end (com um carinho especial por Python e Java Spring Boot), mas também sempre me aventuro pelo front-end quando o projeto pede. Nos momentos de estudo, estou sempre explorando o mundo de Cloud, Redes e boas práticas de código. Adoro um bom desafio e valorizo muito o trabalho em equipe!
+```text
+SYSTEM STATUS: ONLINE 🟢
 
----
+Initializing system...
+██████████████████████████████████ 100%
 
-### 🧰 Minha bagagem de habilidades:
+> Developer detected
+> Knowledge loaded
+> Code engine activated
+> Projects loaded
+```
 
-**Principais Linguagens & Frameworks:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+## 👤 About Me
 
-**Cloud & Infraestrutura:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+```json
+{
+  "name": "Mikaelle Pinheiro",
+  "role": "Full-Stack Developer | Back-end Python",
+  "education": "Ciência da Computação @ UNIP",
+  "current_job": "Estagiária / Desenvolvedora Jr Full-stack @ ??",
+  "location": "São José dos Campos, SP, Brasil",
+  "mission": "Construir aplicações escaláveis e resolver problemas.",
+  "hobbies": ["Coding", "Music", "Learning new techs"]
+}
+```
 
----
+## ⚡ Tech Stack
 
-### 🚀 O que ando construido:
+**Front-End:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-* ⚙️ **[SCAF (Sistema de Análise e Controle de Falhas)](#):** Sistema de análise e controle de falhas operacionais utilizado na Petrobras.
-* 🏗️ **[Concretize](#):** Aplicativo para cálculo e projeto de materiais para instalação de Drywall.
-* 🛒 **[RedsApp1](#):** Aplicativo mobile focado no controle de vendas.
-* 🏆 **[WorldSkills](#):** Treinamento especializado na modalidade #08 Mobile.
+**Back-End:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Cloud & Infra:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 💻 Developer Console
+
+```bash
+# whoami
+Mikaelle Pinheiro
+
+# current_focus
+Python, Java (Spring Boot), React, Cloud Computing.
+
+# execute_projects
+
+> SCAF (Sistema de Análise e Controle de Falhas) - Petrobras
+> Concretize (App para cálculo de Drywall)
+> RedsApp1 (Controle de Vendas Mobile)
+> WorldSkills (Treinamento especializado - Mobile)
+> ....
+
+# status
+Ready to code! 🚀
+```
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikapinheiro&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Status da Mikaelle"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikapinheiro&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Linguagens"/>
+</div>
